@@ -2,6 +2,8 @@
 
 ## Laboratory Work 3 Activity — Building a Custom Image Classifier with TensorFlow Using Personal Image Datasets from Google Drive
 
+Colab link : https://colab.research.google.com/drive/1hKpAt7FQ6lf5StBUYslJ235XWdkmAwod?usp=sharing
+
 1. Dataset Preparation
 
 ○ How did you organize your dataset in Google Drive?
